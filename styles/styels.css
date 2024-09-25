@@ -43,13 +43,13 @@ main{
 }
 .hero{
     /* display: flex; */
-    font-size: 6rem;
+    font-size: 4rem;
     font-family: "Nanum Myeongjo", serif;
     flex-wrap: wrap;
    
 }
 .hero span:first-child {
-    font-size: 4rem;
+    font-size: 3rem;
     margin-bottom: 0%;
 }
 
