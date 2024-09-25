@@ -278,14 +278,15 @@ main{
 /* Contact me Section */
 
 .contact-me-head{
-    width: 100%;
+    /* width: 100%; */
     display: flex;
     justify-content: center;
-    background: #488dfb00;
+    justify-content: space-evenly;
+    /* background: #488dfb00; */
     backdrop-filter: blur(6px);
     position: sticky;
     z-index: 2000;
-    box-shadow: 0px 0px 30px 6px rgba(110, 135, 243, 0.39);
+    /* box-shadow: 0px 0px 30px 6px rgba(110, 135, 243, 0.39); */
 
 }
 
