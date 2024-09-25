@@ -62,7 +62,6 @@ main{
   }
 
 /* project redirection button */
-/* From Uiverse.io by ShadowShahriar */ 
 .colorButt {
     /* margin-left: 5%; */
     --border-radius: 15px;
@@ -154,12 +153,10 @@ main{
    }
 /* Photo card style */
 .card-area{
-    /* background-color: #101630ab; */
     background:linear-gradient(to bottom rgba(128, 128, 128, 0) rgba(128, 128, 128, 0.932));
     backdrop-filter: blur(6px);
     display: flex;
     margin-top: 5px;
-    /* max-width: 40%; */
     justify-content:space-evenly;
 }
 
@@ -171,8 +168,6 @@ main{
     width: 190px;
     height: 240px;
     background-color: #000;
-    /* background: linear-gradient(-45deg, #e2d2e43b 0%, #d0e4ec6b 100% ); */
-    /* backdrop-filter: blur(6px); */
     display: flex;
     flex-direction: column;
     justify-content: end;
@@ -257,7 +252,6 @@ main{
 .projectHead{
     display: flex;
     justify-content: center;
-    /* background-color: #e81cff; */
 }
 #h1pro{
     z-index: 50000;
@@ -267,14 +261,12 @@ main{
 }
 /* project image */
 .container img{
-    /* border: 5px solid red; */
     background-color: #29dbbd63;
     box-shadow: 0px 0px 30px 6px rgba(110, 135, 243, 0.39);
     backdrop-filter: blur(7px);
 }
 
 /* skill section*/
-/* From Uiverse.io by Yaseen549 */
 .skill-head{
   display: flex;
   justify-content: center;
@@ -289,7 +281,6 @@ main{
               -15px -15px 30px rgb(60, 60, 60);
 }
  .skills{
-  /* background-color: red; */
   margin: 1rem;
 
   display: flex;
@@ -310,7 +301,6 @@ main{
               -15px -15px 30px rgb(60, 60, 60);
  }
  .skill-card img{
-  /* padding-top: 20px; */
   border-radius: 15px;
   width: 110px;
   height: auto;
@@ -324,11 +314,9 @@ main{
 /* Contact me Section */
 
 .contact-me-head{
-    /* width: 100%; */
     display: flex;
     justify-content: center;
     justify-content: space-evenly;
-    /* background: #488dfb00; */
     backdrop-filter: blur(6px);
     position: sticky;
     z-index: 2000;
@@ -384,8 +372,6 @@ backdrop-filter: blur(6px);
 }
 
 /* social media  */
-/* From Uiverse.io by Zameerahmad01 */ 
-/* From Uiverse.io by wilsondesouza */ 
 ul {
   list-style: none;
 }
